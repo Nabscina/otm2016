@@ -1,1 +1,2 @@
-Mitäs **pienistä** kun pitää **sienistä**
+Mitäs **pienistä** kun pitää **sienistä**.
+[Käyttohje] 
