@@ -1,2 +1,2 @@
 Mitäs **pienistä** kun pitää **sienistä**.
-[Käyttohje] 
+[Käyttöohje](https://github.com/Nabscina/otm2016/blob/master/dokumentointi/kaytto-ohje.md) 
