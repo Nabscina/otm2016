@@ -5,3 +5,5 @@ Mitäs **pienistä** kun pitää **sienistä**.
 [Määrittelydokumentti](https://github.com/Nabscina/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
 
 :^)
+
+*Brace yourself for the grand finale!*
